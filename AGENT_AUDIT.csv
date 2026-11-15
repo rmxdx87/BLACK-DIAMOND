@@ -1,0 +1,2 @@
+"Agent ID","Agent name","Mapped engines","Vote category","Implementation status","Execution status","Historical reliability","Weight","Last result","Test status","Audit note"
+"REGISTRY_AUDIT","No agent definitions registered","","","NOT_IMPLEMENTED","0 registered / 0 operational","Not available","Not available","No votes recorded","No registry/executor tests","Contracts describe agent records only; no real independent voters found."
